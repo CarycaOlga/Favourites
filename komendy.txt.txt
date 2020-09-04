@@ -1,0 +1,4 @@
+Narzędzie w autoprefixer-cli, które ma czytać z pliku style.css i zapisywać wynik do pliku style.prefixed.css uruchamiamy komendą:
+autoprefixer-cli -o style.prefixed.css style.css 
+Natomiast żeby html-validate wyświetlało listę błędów we wszystkich plikach .html użyjemy komendy:
+html-validator --html=<html>
